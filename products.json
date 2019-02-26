@@ -6,6 +6,13 @@
         "description": "Large drone for most critical missions. Can carry load.",
         "price": 499.99
     },
+{
+        "id": "8",
+        "title": "Honda Accord",
+        "image": "",
+        "description": "Bla bla bla",
+        "price": 10 000.00
+    },
     {
         "id": "2",
         "title": "Small drone",
